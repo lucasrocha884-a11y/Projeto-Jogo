@@ -3,13 +3,70 @@
 <head>
   <meta charset="UTF-8">
   <title>Página Inicial</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      text-align: center;
+    }
+
+    h1 {
+      margin-top: 30px;
+      color: #333;
+    }
+
+    .container {
+      display: flex;
+      justify-content: center;
+      gap: 50px; /* espaço entre os blocos */
+      margin-top: 40px;
+    }
+
+    .item {
+      background: #fff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+      width: 220px;
+      transition: transform 0.2s;
+    }
+
+    .item:hover {
+      transform: scale(1.05);
+    }
+
+    .item img {
+      width: 100%;
+      border-radius: 8px;
+    }
+
+    .item a {
+      display: block;
+      margin-top: 12px;
+      text-decoration: none;
+      color: #007BFF;
+      font-weight: bold;
+      font-size: 16px;
+    }
+
+    .item a:hover {
+      color: #0056b3;
+    }
+  </style>
 </head>
 <body>
-  <nav>
-    <ul>
-      <li><a href="setup-game/public/jogo.html">Jogo</a></li>
-      <li><a href="setup-game/public/configuracoes.html">Configurações</a></li>
-    </ul>
-  </nav>
+  <h1>Escolha sua opção</h1>
+
+  <div class="container">
+    <div class="item">
+      <img src="imagem1.jpg" alt="Imagem da Página 1">
+      <a href="setup-game/public/jogo.html">Ir para Página 1</a>
+    </div>
+
+    <div class="item">
+      <img src="imagem2.jpg" alt="Imagem da Página 2">
+      <a href="setup-game/public/configuracoes.html">Ir para Página 2</a>
+    </div>
+  </div>
 </body>
 </html>
