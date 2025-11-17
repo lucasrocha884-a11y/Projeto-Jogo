@@ -2,7 +2,7 @@
 const STORY_DATA = {
     start: {
         id: 'start',
-        title: '📖 Capítulo 01 — A Mensagem Perdida',
+        title: 'Capítulo 01 — A Mensagem Perdida',
         text: [
             'O vento da tarde sopra frio quando você e João caminham pela rua estreita que leva até o bairro de vocês. O céu, antes azul, começa a se tingir de tons alaranjados e violetas, anunciando o fim do dia.',
             'O cheiro de pão fresco vindo do mercado se mistura com o som distante de buzinas e conversas apressadas. João ri de alguma piada que fez, mas logo seu celular vibra. Ele pega o aparelho e franze o cenho:',
@@ -23,7 +23,7 @@ const STORY_DATA = {
     // CAMINHO P1 - MERCADO
     p1_mercado: {
         id: 'p1_mercado',
-        title: 'Caminho P1 — O Mercado e o Beco',
+        title: 'O Mercado e o Beco',
         text: [
             'Vocês seguem lado a lado até o mercado. O sol já se esconde parcialmente atrás dos prédios. A rua ganha sombras longas e inquietantes.',
             'Ao chegar, João comentou casualmente:',
@@ -196,7 +196,7 @@ const STORY_DATA = {
     // CAMINHO P2 - CASA
     p2_casa: {
         id: 'p2_casa',
-        title: 'Caminho P2 — O Pressentimento Ignorado',
+        title: 'O Pressentimento Ignorado',
         text: [
             'Você não dá atenção a mensagem da Mãe de João, não é problema seu, tem coisas mais importantes para fazer, do que achar que aquilo seria algo verdadeiramente preocupante.',
             'Você ignora seus pressentimentos e se despede de João.',
@@ -248,7 +248,7 @@ const STORY_DATA = {
     // CAMINHO P3 - CONVERSA
     p3_conversa: {
         id: 'p3_conversa',
-        title: 'Caminho P3 — A Noite Estranha',
+        title: 'A Noite Estranha',
         text: [
             'Você acha estranho a mensagem da mãe de João, mas quer tentar ajudar de alguma forma, João é meio desleixado, essa mensagem parece muito suspeita aos seus olhos de quem assiste séries de true crime.',
             'Mesmo receoso se tinha direito, contesta João por sua decisão.',
