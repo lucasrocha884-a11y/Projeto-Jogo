@@ -108,7 +108,7 @@ html, body {
 .overlay-vignette {
     position: absolute;
     inset: 0;
-    background: radial-gradient(circle at center, transparent 0%, rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.5) 100%);
+    background: radial-gradient(circle at center, transparent 0%, rgba(24, 23, 23, 0.2) 50%, rgba(24, 23, 23, 0.5) 100%);
     pointer-events: none;
 }
 
