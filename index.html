@@ -4,7 +4,12 @@
   <meta charset="UTF-8">
   <title>Hub do jogo</title>
   <style>
-    /* Fundo geral */
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
     body {
       background: linear-gradient(180deg, #000 0%, #1a0000 100%);
       color: #f5f5f5;
@@ -22,7 +27,6 @@
       letter-spacing: 2px;
     }
 
-    /* Container dos blocos */
     .choice-container {
       display: flex;
       justify-content: center;
@@ -30,7 +34,6 @@
       margin-top: 60px;
     }
 
-    /* Cada item */
     .choice-item {
       text-align: center;
       background: rgba(20, 0, 0, 0.7);
@@ -45,14 +48,12 @@
       box-shadow: 0 0 30px rgba(255,0,0,0.7);
     }
 
-    /* Imagens */
     .choice-item img {
       width: 220px;
       border-radius: 8px;
       border: 2px solid #c00;
     }
 
-    /* Links */
     .choice-item a {
       display: block;
       margin-top: 15px;
