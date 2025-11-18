@@ -316,7 +316,7 @@ const WIKI_DATA = {
         name: "Lucas de Almeida Rocha",
         role: "Criador e Desenvolvedor do jogo The Sinister Factory",
         description: "Responsável pela criação do universo, desenvolvimento do jogo e o controle de grupo.",
-        ra: "2200875",
+        ra: "924116651",
         contact: {
           email: "lucasrocha884@uni9.edu.br",
         }
@@ -326,7 +326,7 @@ const WIKI_DATA = {
         name: "Eugénio Kafuma António Nobrega",
         role: "Criador da Interface Gráfica do jogo The Sinister Factory e do video de apresentação",
         description: "Responsável pela criação da interface gráfica do jogo e da wiki e do vídeo de apresentação.",
-        ra: "2200875",
+        ra: "925108741",
         contact: {
           email: "Eugenionobrega91@uni9.edu.br",
         }
@@ -336,17 +336,7 @@ const WIKI_DATA = {
         name: "Henrique Luciano Pires",
         role: "Ajudante na criação do roteiro do jogo The Sinister Factory e do video de apresentação",
         description: "Responsável pela ajuda na criação do roteiro do jogo.",
-        ra: "2200875",
-        contact: {
-          email: "henrique.luciano.pires@uni9.edu.br",
-        }
-      }
-      ,
-      {
-        name: "Henrique Luciano Pires",
-        role: "Ajudante na criação do roteiro do jogo",
-        description: "Responsável pela ajuda na criação do roteiro do jogo The Sinister Factory.",
-        ra: "2200875",
+        ra: "925101156",
         contact: {
           email: "henrique.luciano.pires@uni9.edu.br",
         }
@@ -356,7 +346,7 @@ const WIKI_DATA = {
         name: "Jhonatan Souza Barbosa",
         role: "Analista de concorrencia e encarregado pela criação do arquivo escrito final",
         description: "Responsável pela análise de concorrência e pela elaboração do arquivo de apresentação do trabalho.",
-        ra: "2200875",
+        ra: "925205465",
         contact: {
           email: "barbosa.jhonatan@uni9.edu.br",
         }
@@ -366,9 +356,9 @@ const WIKI_DATA = {
         name: "Lucas Tatsuo Shima Fávaro",
         role: "Designer Gráfico do jogo The Sinister Factory",
         description: "Responsável pelo design de todos os elementos gráficos do jogo The Sinister Factory.",
-        ra: "2200875",
+        ra: "925115281",
         contact: {
-          email: "lucas.shima@uni9.edu.br",
+          email: "Lucasfavaro077@uni9.edu.br",
         }
       }
       ,
@@ -376,7 +366,7 @@ const WIKI_DATA = {
         name: "Rhuan Machado",
         role: "Desvolvedor da wiki The Sinister Factory",
         description: "O responsável pelo desenvolvimento da wiki The Sinister Factory.",
-        ra: "2200875",
+        ra: "925102998",
         contact: {
           email: "Rhuan.m@uni9.edu.br",
         }
@@ -386,7 +376,7 @@ const WIKI_DATA = {
         name: " João Pedro Souza Nunes",
         role: "Analista de concorrencia e criação do roteiro do video de apresentação",
         description: "O encarregado pela análise de concorrência e pela criação do roteiro do vídeo de apresentação.",
-        ra: "2200875",
+        ra: "925115612",
         contact: {
           email: "joao.pedro@uni9.edu.br",
         }
@@ -396,7 +386,7 @@ const WIKI_DATA = {
         name: "Luis Felipe",
         role: "Analista de concorrencia e criaçao do arquivo escrito final",
         description: "Responsável pela análise de concorrência e pela elaboração do arquivo de apresentação do trabalho.",
-        ra: "2200875",
+        ra: "925116420",
         contact: {
           email: "luis.anjos@uni9.edu.br",
         }
@@ -406,7 +396,7 @@ const WIKI_DATA = {
         name: "Maria Eduarda",
         role: "Descrição da wiki",
         description: "A encarregada pela descrição e organização do conteúdo da wiki.",
-        ra: "2200875",
+        ra: "925203934",
         contact: {
           email: "maria.eduarda@uni9.edu.br",
         }
@@ -416,7 +406,7 @@ const WIKI_DATA = {
         name: "João Gabriel Oliveira Botelho",
         role: "Designer de Personagens e criação do arquivo escrito final",
         description: "Responsável pela criação e design dos personagens do jogo e pela elaboração do documento final para entrega.",
-        ra: "2200875",
+        ra: "925113629",
         contact: {
           email: "gabriel.botelho@uni9.edu.br",
         }
