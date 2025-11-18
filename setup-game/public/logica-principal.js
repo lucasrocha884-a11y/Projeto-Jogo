@@ -36,7 +36,7 @@ class SinistreFactory {
                 <div class="menu-content">
                     <div class="menu-header">
                         <div class="menu-logo">
-                            <img src="../assets/logo.png" alt="The Sinistre Factory" class="menu-logo-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                            <img src="../assets/logo.png" alt="The Sinister Factory" class="menu-logo-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
                         </div>
                         <h1 class="menu-title">THE SINISTER</h1>
                         <h1 class="menu-title">FACTORY</h1>
