@@ -7,4 +7,4 @@ Os arquivos 1 e 2 existem dentro do <b>arquivos-complementares</b>
 
 2 - [VER ANÁLISE WEB](https://docs.google.com/spreadsheets/d/1gTedC3iUEHONtDwVb7YwZIAc-H-XUr_dAI3kXm3IcKM/edit?usp=sharing)
 
-[JOGO/WIKI DO JOGO SINISTER FACTORY](
+[JOGO/WIKI DO JOGO SINISTER FACTORY](https://lucasrocha884-a11y.github.io/Projeto-Jogo/)
