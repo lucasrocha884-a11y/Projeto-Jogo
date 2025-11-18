@@ -38,7 +38,7 @@ class SinistreFactory {
                         <div class="menu-logo">
                             <img src="../assets/logo.png" alt="The Sinistre Factory" class="menu-logo-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
                         </div>
-                        <h1 class="menu-title">THE SINISTRE</h1>
+                        <h1 class="menu-title">THE SINISTER</h1>
                         <h1 class="menu-title">FACTORY</h1>
                         <p class="menu-subtitle">A ESCURIDÃO AGUARDA</p>
                     </div>
