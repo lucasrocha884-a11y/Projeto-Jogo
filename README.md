@@ -6,7 +6,7 @@ A The Sinister Factory Wiki é um sistema web dedicado à organização e consul
 Integrantes do Projeto
 1. Lucas de Almeida Rocha
 
-Função: Criador e Desenvolvedor do jogo The Sinister Factory
+Função: Criador e Desenvolvedor do jogo The Sinister Factory <br>
 RA: 924116651
 Atuação:
 Responsável pela criação do universo narrativo, desenvolvimento do jogo, estrutura lógica e gerenciamento geral da equipe e do projeto.
