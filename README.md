@@ -1,16 +1,15 @@
 # Projeto-Jogo
-<b>Título: Documentação do Sistema – The Sinister Factory Wiki</b>
+<b>Título: Documentação do Sistema – The Sinister Factory Wiki</b> <br>
 
-A The Sinister Factory Wiki é um sistema web dedicado à organização e consulta de informações relacionadas ao universo do jogo The Sinister Factory. Seu objetivo é reunir, de maneira clara e acessível, dados sobre personagens, cultos, entidades e demais elementos narrativos. A wiki foi desenvolvida utilizando HTML, CSS e JavaScript em arquitetura SPA (Single Page Application), permitindo navegação rápida e dinâmica entre páginas sem recarregamentos completos.
+A The Sinister Factory Wiki é um sistema web dedicado à organização e consulta de informações relacionadas ao universo do jogo The Sinister Factory. Seu objetivo é reunir, de maneira clara e acessível, dados sobre personagens, cultos, entidades e demais elementos narrativos. A wiki foi desenvolvida utilizando HTML, CSS e JavaScript em arquitetura SPA (Single Page Application), permitindo navegação rápida e dinâmica entre páginas sem recarregamentos completos. <br>
 
-Integrantes do Projeto
+Integrantes do Projeto <br>
 1. Lucas de Almeida Rocha
 
 Função: Criador e Desenvolvedor do jogo The Sinister Factory <br>
-RA: 924116651
-Atuação:
-Responsável pela criação do universo narrativo, desenvolvimento do jogo, estrutura lógica e gerenciamento geral da equipe e do projeto.
-Contato: lucasrocha884@uni9.edu.br
+RA: 924116651<br>
+Atuação: Responsável pela criação do universo narrativo, desenvolvimento do jogo, estrutura lógica e gerenciamento geral da equipe e do projeto. <br>
+Contato: lucasrocha884@uni9.edu.br <br>
 
 2. Eugénio Kafuma António Nobrega
 
