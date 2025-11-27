@@ -43,8 +43,8 @@ const WIKI_DATA = {
         {
           id: "joao",
           name: "João",
-          role: "Antagonista",
-          description: "Membro de alto escalão do Culto da Fenda",
+          age: "18 anos",
+          description: "Amigo do Player, coprotagonista da historia",
           status: "Ativo"
         }
       ]
