@@ -205,54 +205,84 @@ const WIKI_DATA = {
   },
 
   joao: {
-    pageTitle: "João",
-    alertBanner: {
-      title: "Aviso de Conteúdo:",
-      message: "Este perfil contém referências a violência, cultismo, manipulação psicológica e horror existencial. Recomenda-se discrição ao leitor."
+  pageTitle: "João",
+  alertBanner: {
+    title: "Aviso de Conteúdo:",
+    message: "Este perfil contém referências a lapsos de memória, trauma psicológico e horror existencial. Recomenda-se discrição ao leitor."
+  },
+  introduction: "João é o co-protagonista desta narrativa — um aliado inesperado de Player, marcado por mistérios que o cercam desde a infância. Embora não tenha relação com qualquer culto, João carrega consigo experiências que desafiam a compreensão e o colocam em constante conflito com sua própria mente. Carismático, introspectivo e inquietantemente perceptivo, ele caminha ao lado de Player como uma mistura de amigo, espelho emocional e enigma vivo.",
+  sections: {
+    appearanceAndPresence: {
+      title: "Aparência e Presença",
+      description: "João possui uma presença magnética que chama atenção sem esforço, mas de forma sutil, quase desconfortável. Nada nele é extraordinário à primeira vista — mas quanto mais se observa, mais impossível é desviar o olhar:",
+      traits: [
+        {
+          feature: "Aparência Física",
+          description: "Garoto de 18 anos, estatura média, cabelos escuros e bagunçados. Os olhos profundos carregam um cansaço incomum para alguém tão jovem — como se ele visse mais do que deveria."
+        },
+        {
+          feature: "Vestimenta",
+          description: "Roupas simples e gastas, muitas vezes remendadas. Alguns detalhes revelam sua vida conturbada — costuras improvisadas, tecidos arranhados, marcas de uso intenso."
+        },
+        {
+          feature: "Voz",
+          description: "Suave e calma, com um ritmo lento. Ele fala como quem mede cada palavra, sempre cauteloso com o que pode revelar sem querer."
+        },
+        {
+          feature: "Presença",
+          description: "João parece sempre levemente desconectado do mundo ao redor — não por algo sobrenatural, mas como alguém que vive entre a lucidez e um estado constante de alerta."
+        }
+      ]
     },
-    introduction: "João é o antagonista central desta narrativa — ou, dependendo da perspectiva, o guia inevitável para uma verdade que Player não quer aceitar. Carismático, perspicaz e profundamente perturbador, João ocupa um papel ambíguo: ele não é um vilão tradicional, movido por malícia gratuita, mas sim um crente fervoroso em uma filosofia que desafia os limites da sanidade e da moralidade humana. Ele é o rosto humano do Culto da Fenda, e sua relação com Player é ao mesmo tempo de mentor, predador e espelho distorcido.",
-    sections: {
-      appearanceAndPresence: {
-        title: "Aparência e Presença",
-        description: "João possui uma presença magnética que imediatamente chama atenção, mas de forma desconcertante. Ele não é intimidador no sentido físico — na verdade, sua aparência é quase comum:",
-        traits: [
-          { feature: "Aparência Física", description: "Homem de estatura média, cabelos escuros e desgrenhados, olhos profundos que parecem sempre observar algo além da superfície." },
-          { feature: "Vestimenta", description: "Roupas simples, muitas vezes gastas, mas sempre com um detalhe peculiar — uma cicatriz exposta, um símbolo discreto bordado, uma textura estranha no tecido." },
-          { feature: "Voz", description: "Suave, quase hipnótica. Ele fala devagar, escolhendo cada palavra com cuidado, como se estivesse revelando segredos antigos." },
-          { feature: "Presença", description: "Há algo profundamente errado nele, mas é difícil apontar exatamente o quê. Ele parece estar sempre levemente fora de sincronia com o ambiente ao redor — como se ocupasse um espaço que não deveria existir." }
-        ]
-      },
-      psychologicalProfile: {
-        title: "Perfil Psicológico",
-        intro: "João é um indivíduo complexo, moldado por anos de devoção ao Culto da Fenda e por experiências que transcendem a compreensão humana convencional:",
-        traits: [
-          { name: "Carisma Perturbador", description: "Ele possui uma habilidade inata de ler pessoas e manipulá-las emocionalmente. Não de forma cruel, mas quase clínica — como se entendesse os padrões que governam o comportamento humano e soubesse exatamente quais fios puxar." },
-          { name: "Crença Inabalável", description: "João não vê o Culto como uma organização — ele o vê como a verdade fundamental do universo. Para ele, a \"Carne Primordial\" não é uma metáfora, mas uma realidade tangível, viva e consciente." },
-          { name: "Empatia Distorcida", description: "Ele genuinamente se importa com Player — mas sua forma de cuidado é profundamente tóxica. João acredita que está salvando Player ao guiá-lo para o Culto, libertando-o das ilusões da identidade individual." }
-        ]
-      },
-      roleInTheCult: {
-        title: "Papel no Culto",
-        intro: "João ocupa uma posição elevada dentro da hierarquia do Culto da Fenda, embora ele próprio rejeite títulos formais. Dentro da estrutura informal do culto, ele seria classificado como um dos Ecos da Fenda — indivíduos que perderam quase toda identidade individual e se tornaram extensões do \"Fluxo\".",
-        responsibilities: [
-          { title: "Recrutador e Mentor", description: "João identifica indivíduos vulneráveis — especialmente aqueles à beira do colapso psicológico — e os guia gentilmente em direção ao Culto." },
-          { title: "Guardião de Conhecimento", description: "Ele possui acesso a textos antigos, rituais esquecidos e segredos que poucos membros conhecem." },
-          { title: "Ponte entre Mundos", description: "João afirma ter \"ouvido\" a Carne Primordial diretamente. Alguns acreditam que ele já passou por transformações físicas que o tornaram parcialmente não-humano." }
-        ]
-      }
+    psychologicalProfile: {
+      title: "Perfil Psicológico",
+      intro: "João é um jovem marcado por lapsos de memória, eventos inexplicáveis e a sensação constante de estar sendo puxado para algo além de seu controle. Sua mente é ao mesmo tempo sua maior força e seu maior tormento:",
+      traits: [
+        {
+          name: "Carisma Silencioso",
+          description: "Ele possui uma habilidade natural de entender pessoas rapidamente, lendo expressões e intenções com precisão assustadora. Não usa isso para manipular — usa para sobreviver."
+        },
+        {
+          name: "Ceticismo Forte",
+          description: "Após anos de experiências inexplicáveis, João não confia em autoridades, sistemas ou promessas de respostas fáceis. Ele rejeita qualquer tipo de culto, organização ou crença estruturada."
+        },
+        {
+          name: "Empatia Ferida",
+          description: "Ele se importa com Player genuinamente, mas sua forma de demonstrar isso é afetada por medo e trauma. Ele teme se apegar, teme perder e teme ser perdido."
+        }
+      ]
     },
-    infoBox: {
-      title: "João",
-      data: [
-        { label: "Nome Completo", value: "João (sobrenome desconhecido)" },
-        { label: "Idade", value: "~30 anos" },
-        { label: "Afiliação", value: "O Culto da Fenda" },
-        { label: "Posição", value: "Eco da Fenda" },
-        { label: "Status", value: "Ativo" },
-        { label: "Nível de Perigo", value: "Extremo" }
+    roleInTheCult: {
+      title: "Papel na História",
+      intro: "João não pertence a nenhum culto, organização ou grupo. Seu papel na narrativa nasce de sua relação com Player e de seu envolvimento involuntário com fenômenos que ele próprio não compreende.",
+      responsibilities: [
+        {
+          title: "Aliado Inesperado",
+          description: "João se torna a principal âncora emocional de Player, oferecendo companhia e compreensão mesmo nos momentos mais caóticos."
+        },
+        {
+          title: "Sobrevivente de Eventos Estranhos",
+          description: "Ele guarda memórias fragmentadas e lapsos que escondem pistas importantes sobre o que realmente está acontecendo ao redor."
+        },
+        {
+          title: "Buscador de Respostas",
+          description: "João tenta entender a origem de seus apagões, dos padrões que aparecem durante os episódios e da sensação de que Player faz parte de algo maior em sua vida."
+        }
       ]
     }
   },
+  infoBox: {
+    title: "João",
+    data: [
+      { label: "Nome Completo", value: "João (sobrenome desconhecido)" },
+      { label: "Idade", value: "18 anos" },
+      { label: "Afiliação", value: "Nenhuma" },
+      { label: "Posição", value: "Co-protagonista" },
+      { label: "Status", value: "Ativo" },
+      { label: "Nível de Perigo", value: "Instável (risco emocional/psicológico, não físico)" }
+    ]
+  }
+},
 
   creatures: {
     pageTitle: "Entidades Fungoides",
