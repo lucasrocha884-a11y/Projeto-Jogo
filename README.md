@@ -9,7 +9,7 @@ Já o jogo The Sinister Factory foi idealizado, roteirizado, ilustrado e program
 
 O processo de desenvolvimento exigiu planejamento, análise, criação visual e programação. Cada membro da equipe exerceu funções específicas, contribuindo para a qualidade final do sistema, desde aspectos técnicos como interface gráfica, lógica do jogo e da Wiki até elementos narrativos, documentação escrita, design visual e análise de concorrência. <br>
 
-<img src="seput-jogo/assets/Print-Jogo.png" alt="Imagem do jogo" class="imagem-jogo">
+<img src="setup-game/assets" alt="Imagem do jogo" class="imagem-jogo">
 
 Integrantes do Projeto <br>
 1. Lucas de Almeida Rocha
