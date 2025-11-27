@@ -1,7 +1,13 @@
 # Projeto-Jogo
-<b>Título: Documentação do Sistema – The Sinister Factory Wiki</b> <br>
+<b>Documentação do Sistema – The Sinister Factory Wiki</b> <br>
 
-A The Sinister Factory Wiki é um sistema web dedicado à organização e consulta de informações relacionadas ao universo do jogo The Sinister Factory. Seu objetivo é reunir, de maneira clara e acessível, dados sobre personagens, cultos, entidades e demais elementos narrativos. A wiki foi desenvolvida utilizando HTML, CSS e JavaScript em arquitetura SPA (Single Page Application), permitindo navegação rápida e dinâmica entre páginas sem recarregamentos completos. <br>
+O sistema The Sinister Factory é composto por dois pilares principais: o jogo e a Wiki oficial, ambos desenvolvidos para fornecer uma experiência imersiva no universo de horror investigativo criado pela equipe. O desenvolvimento foi realizado por um grupo multidisciplinar de estudantes, responsáveis por atividades técnicas, criativas e documentais essenciais para a construção do projeto.
+
+A Wiki foi desenvolvida como um sistema web do tipo SPA (Single Page Application), utilizando exclusivamente tecnologias fundamentais da web (HTML, CSS e JavaScript). Sua função é servir como um repositório oficial de informações do jogo, reunindo dados sobre personagens, cultos, criaturas, narrativa, além de disponibilizar um espaço para documentação do projeto e seus criadores.
+
+Já o jogo The Sinister Factory foi idealizado, roteirizado, ilustrado e programado pelos próprios integrantes, integrando elementos de mistério, sobrevivência e exploração atmosférica. O resultado é um ecossistema completo composto pelo jogo e sua Wiki, formando uma plataforma coesa e consistente.
+
+O processo de desenvolvimento exigiu planejamento, análise, criação visual e programação. Cada membro da equipe exerceu funções específicas, contribuindo para a qualidade final do sistema, desde aspectos técnicos como interface gráfica, lógica do jogo e da Wiki até elementos narrativos, documentação escrita, design visual e análise de concorrência. <br>
 
 Integrantes do Projeto <br>
 1. Lucas de Almeida Rocha
