@@ -8,4 +8,4 @@ Os arquivos 1, 2, 3 existem dentro do <b>arquivos-complementares</b> e os BPMN e
 
 2 - [VER ANÀLISE WEB - DUSKWOOD WIKI](https://lucasrocha884-a11y.github.io/Projeto-Jogo/arquivos-complementares/analise-duskwood-wiki/duskwood-wiki.html)
 
-3 - [VER ANÁLISE WEB - DUSKWOOD](https://lucasrocha884-a11y.github.io/Projeto-Jogo/arquivos-complementares/analise-duskwood-wiki/duskwood-wiki.html)
+3 - [VER ANÁLISE WEB - DUSKWOOD](https://lucasrocha884-a11y.github.io/Projeto-Jogo/arquivos-complementares/analise-duskwood/duskwood.html)
